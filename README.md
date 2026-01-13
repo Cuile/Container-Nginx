@@ -1,3 +1,3 @@
-# Docker-Nginx
+# Container-Nginx
 
-基于Docker的，Nginx服务器 
+基于容器的Nginx服务器 
