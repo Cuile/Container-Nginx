@@ -1,7 +1,7 @@
 name: nginx
 services:
   nginx:
-    image: nginx:1.27.4-alpine-slim
+    image: docker.io/nginx:1.27.4-alpine-slim
     container_name: nginx
     ports:
       - "80:80"
